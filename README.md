@@ -9,5 +9,5 @@ basemaps.
 ## Basemaps included
 
 * [Mapbox](mapbox/)
-    * [Protected Planet Terrain](mapbox/Protected Planet Terrain)
-    * [Protected Planet Satellite](mapbox/Protected Planet Satellite)
+    * [Protected Planet Terrain](mapbox/Protected Planet Terrain.tm2)
+    * [Protected Planet Satellite](mapbox/Protected Planet Satellite.tm2)
