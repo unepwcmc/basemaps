@@ -1,6 +1,6 @@
 _prefs: 
   baselayer: ''
-  mapid: unepwcmc.3f516bae
+  mapid: null
   saveCenter: false
 _properties: 
   bridge: 
@@ -15,7 +15,7 @@ center:
   - 0
   - 0
   - 3
-description: ODV basemap, made using Mapbox Studio Classic
+description: ODV Labels, made using Mapbox Studio Classic
 format: "png8:m=h:c=64"
 interactivity_layer: ''
 layers: 
@@ -46,7 +46,7 @@ layers:
   - contour.label
 maxzoom: 20
 minzoom: 0
-name: ODV Terrain
+name: ODV Labels
 source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6"
 styles: 
   - vars.mss

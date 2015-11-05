@@ -36,6 +36,7 @@
 
 
 
+
 // ---------------------------------------------------------------------
 // Countries
 
@@ -43,6 +44,10 @@
 // optimizing the arrangement to fit as many as possible in densely-
 // labeled areas.
 #country_label[zoom>=3] {
+  [name_en="Bolivia"] {text-name: "'Bolivia (Plurinational state of)'";}
+  [name_en="Venezuela"] {text-name: "'Venezuela (Bolivarian Republic of)'";}
+  [name_en="Republic of Macedonia"] {text-name: "'The former Yugoslav Republic of Macedonia'";}
+  [name_en="Taiwan"] {text-name: "'Taiwan Province of China'"}
   text-name: @name;
   text-face-name: @serif_bd;
   text-wrap-width: 100;
@@ -79,6 +84,7 @@
 // Marine
 
 #marine_label {
+  [name_en="East Sea — Sea of Japan"] {text-name: "'East Sea'";}
   text-name: @name;
   text-face-name: @serif_it;
   text-wrap-width: 60;

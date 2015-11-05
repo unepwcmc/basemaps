@@ -11,9 +11,9 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - 28.125
-  - 6.5773
-  - 4
+  - 132.6709
+  - 38.9081
+  - 6
 description: ''
 format: "png8:m=h"
 interactivity_layer: ''
@@ -21,7 +21,7 @@ layers: null
 maxzoom: 22
 minzoom: 0
 name: ODV-overlay
-source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v5"
+source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v6"
 styles: 
   - style.mss
   - road.mss

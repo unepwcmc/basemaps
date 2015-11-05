@@ -6,11 +6,11 @@
   <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
   <Parameter name="bounds">-180,-85,180,85</Parameter>
   <Parameter name="center">0,0,3</Parameter>
-  <Parameter name="description"><![CDATA[ODV basemap, made using Mapbox Studio Classic]]></Parameter>
+  <Parameter name="description"><![CDATA[ODV Labels, made using Mapbox Studio Classic]]></Parameter>
   <Parameter name="format">png8:m=h:c=64</Parameter>
   <Parameter name="maxzoom">20</Parameter>
   <Parameter name="minzoom">0</Parameter>
-  <Parameter name="name"><![CDATA[ODV Terrain]]></Parameter>
+  <Parameter name="name"><![CDATA[ODV Labels]]></Parameter>
   <Parameter name="source"><![CDATA[mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6]]></Parameter>
 </Parameters>
 
